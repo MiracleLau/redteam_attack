@@ -19,6 +19,7 @@
 - [AT-P-list](https://github.com/AnyeDuke/AT-P-list) - 攻防清单:用于整理当前收集的所有攻防相关资源 
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.    
 - [Shr3dKit](https://github.com/shr3ddersec/Shr3dKit) - Red Team Tool Kit    
+- [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 
 ## 远控
 
