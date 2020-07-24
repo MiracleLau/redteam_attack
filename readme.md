@@ -20,6 +20,7 @@
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) - The best hacker's gadgets for Red Team pentesters and security researchers.    
 - [Shr3dKit](https://github.com/shr3ddersec/Shr3dKit) - Red Team Tool Kit    
 - [Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
+- [RedTeamTools](https://github.com/lengjibo/RedTeamTools) - 红队相关的一些工具
 
 ## 远控
 
@@ -33,7 +34,7 @@
 - [Octopus](https://github.com/mhaskar/Octopus) - Open source pre-operation C2 server based on python and powershel
 - [Powershell-RAT](https://github.com/Viralmaniar/Powershell-RAT) - Python based backdoor that uses Gmail to exfiltrate data through  attachment. This RAT will help during red team engagements to backdoor  any Windows machines. It tracks the user activity using screen capture  and sends it to an attacker as an e-mail attachment.    
 - [ThunderShell](https://github.com/Mr-Un1k0d3r/ThunderShell) - Python / C# Unmanaged PowerShell based RAT 
-- [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows    
+- [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows 
 
 
 
