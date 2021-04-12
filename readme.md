@@ -90,3 +90,10 @@
 ## 免杀
 
 - [BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考
+- [AVByPass](https://github.com/yhy0/AVByPass) - 一款Web在线自动免杀工具
+
+
+
+## 提权
+
+- [BadPotato](https://github.com/BeichenDream/BadPotato) - Windows 权限提升 BadPotato
