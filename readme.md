@@ -12,7 +12,6 @@
 - [offensiveinterview](https://github.com/Leezj9671/offensiveinterview) - 翻译国外的@WebBreacher的安全/渗透测试/红队面试题，有部分参考作用
 - [RedTeamer](https://github.com/klionsec/RedTeamer) - 红方人员作战执行手册
 - [redteam-hardware-toolkit](https://github.com/sectool/redteam-hardware-toolkit) -  Red Team Hardware Toolkit 
-- [RedTeamManual](https://github.com/klionsec/RedTeamManual) - 红队 [ 蓝军 ]  作战手册
 - [RedTeamPowershellScripts](https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts) - Various PowerShell scripts that may be useful during red team exercise
 - [RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [redteam](https://github.com/d0nkeys/redteam) - Red Team Scripts by d0nkeys (ex SnadoTeam)
@@ -38,6 +37,12 @@
 
 
 
+## ShellCode
+
+- [BadOutlook](https://github.com/S4R1N/BadOutlook) - A simple PoC which leverages the Outlook Application Interface (COM Interface) to execute shellcode on a system based on a specific trigger subject line.
+
+
+
 ## 书籍资料
 
 - [ATTCK-PenTester-Book](https://github.com/Dm2333/ATTCK-PenTester-Book) - ATTCK-PenTester-Book
@@ -49,7 +54,8 @@
 - [MITRE-ATT-CK-CN](https://github.com/klionsec/MITRE-ATT-CK-CN) - 红蓝对抗相关的脑图
 - [Micro8](https://github.com/Micropoor/Micro8) - 渗透测试相关的知识总结
 - [DarthSidious-Chinese](https://github.com/crazywa1ker/DarthSidious-Chinese) - DarthSidious 中文版
-- [Powershell-Attack-Guide](https://github.com/rootclay/Powershell-Attack-Guide) - Powershell攻击指南----黑客后渗透之道    
+- [Powershell-Attack-Guide](https://github.com/rootclay/Powershell-Attack-Guide) - Powershell攻击指南----黑客后渗透之道 
+- [redteam-notebook](https://github.com/foobarto/redteam-notebook) - Collection of commands, tips and tricks and references I found useful during preparation for OSCP exam.
 
 
 
