@@ -56,6 +56,7 @@
 - [DarthSidious-Chinese](https://github.com/crazywa1ker/DarthSidious-Chinese) - DarthSidious 中文版
 - [Powershell-Attack-Guide](https://github.com/rootclay/Powershell-Attack-Guide) - Powershell攻击指南----黑客后渗透之道 
 - [redteam-notebook](https://github.com/foobarto/redteam-notebook) - Collection of commands, tips and tricks and references I found useful during preparation for OSCP exam.
+- [redtool](https://github.com/xiaoZ-hc/redtool) - 日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种
 
 
 
