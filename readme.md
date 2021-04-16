@@ -85,6 +85,7 @@
 - [BypassAV](https://github.com/hack2fun/BypassAV) - Cobalt Strike插件，用于快速生成免杀的可执行文件
 - [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) -  Cobalt Strike Aggressor 插件包
 - [Erebus](https://github.com/DeEpinGh0st/Erebus) - CobaltStrike后渗透测试插件    
+- [taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) - 基于cobalt strike平台的红队自动化框架
 
 
 
