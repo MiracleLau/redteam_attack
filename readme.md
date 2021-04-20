@@ -77,6 +77,7 @@
 ## 未分类
 
 - [ptf](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
+- [RedTeamCSharpScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts) - C# Script used for Red Team
 
 
 
