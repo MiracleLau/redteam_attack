@@ -86,6 +86,7 @@
 - [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) -  Cobalt Strike Aggressor 插件包
 - [Erebus](https://github.com/DeEpinGh0st/Erebus) - CobaltStrike后渗透测试插件    
 - [taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) - 基于cobalt strike平台的红队自动化框架
+- [cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit) - Attempting to be an all in one repo for others' userful aggressor scripts as well as things we've found useful during Red Team Operations.
 
 
 
